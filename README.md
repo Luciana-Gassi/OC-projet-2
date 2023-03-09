@@ -1,2 +1,1 @@
-This is the first version of a new website/blog.
-New hard skills are coming... let's see how I can implement 
+Files du projet n.2 OC "Créez la page d'accueil d'une agence de voyage avec HTML & CSS"
